@@ -1,2 +1,0 @@
-# StellaRing
-The stellar webring.
